@@ -1,2 +1,2 @@
 main.remove();
-let newHeader = 
+let newHeader = document.createElement
